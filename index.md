@@ -7,7 +7,8 @@ contact me under <w.thorben94@gmail.com>
 ## User Data
 This app does not need an account. \
 It collects no user data and also distributes no user or usage statistics to any external party. \
-All data created by using the app is stored locally on the device.
+All data created by using the app is stored locally on the device. \
+This includes the in-app purchase for unlimited recipe creation. Billing and ownership is strictly handled by the Play Store and never send to a third party.
 
 ## Ads
 The paid version of this app does not display any ads, while the free demo version might in the future include small non-intrusive banners
